@@ -33,3 +33,30 @@
 - The p -value is below .05 (p = 0.04) meaning we would reject the null hypothesis that the true mean of this data subset is 1500.
 
 ## Study Design: MechaCar vs Competition
+### Summary
+- There has been a major shift towards fuel efficient cars as consumers are wanting to save money and the environment. A great place to start would be a statistical study comparing the city and highway fuel efficiency of the MechaCar prototypes to other similar vehicles on the market. The question I would seek to answer is: Does the MechaCar have a higher fuel efficiency than the average of other similar cars on the market?
+
+### Hypothesis
+- Hypothesis: If the MechaCar has higher fuel efficiency than other cars on the market, then it will get more miles per gallon in the city and highway than the industry average.
+- Null Hypothesis: If the MechaCar does not have higher fuel efficiency than other cars on the market, then it will get the industry average or lower miles per gallon in the city and highway.
+
+### Statistical Test
+- The statistical test I would run would be to plot all the vehicles on a scatter plot with city mpg on the x axis and highway mpg on the y axis. I would then run a simple linear regressions to see the relationship between the two variables as well as see where the MechaCar is in relation to all the other vehicles.
+
+### Required Data
+- The required data would be a list of all vehicles that are similar to the MechaCar and their fuel efficiency, both the highway and city mpg.
+
+
+
+
+
+
+Does dark chocolate positively affect arterial function in healthy individuals?
+
+    Hypothesis - If dark chocolate is related to arterial function in healthy individuals, then consuming 30g of dark chocolate per day for 1 year will result in improved arterial function.
+
+    Null Hypothesis - If dark chocolate is not related to arterial function in healthy individuals, then consuming 30g per day of dark chocolate for 1 year will show no improvement in arterial function.
+
+    Alternative Hypothesis - If dark chocolate is related to arterial function in healthy individuals, then consuming 30g of dark chocolate per day for 1 year will show improvement in arterial function.
+
+
