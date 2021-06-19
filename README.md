@@ -44,5 +44,5 @@
 - The statistical test I would run would be to plot all the vehicles on a scatter plot with city mpg on the x axis and highway mpg on the y axis. I would then run a simple linear regressions to see the relationship between the two variables as well as see where the MechaCar is in relation to all the other vehicles.
 
 ### Required Data
-- The required data would be a list of all vehicles that are similar to the MechaCar and their fuel efficiency, both the highway and city mpg.
+- The required data would be a list of all vehicles that are similar to the MechaCar and their fuel efficiency, both the highway and city mpg. Additionally, we would need the highway and city mpg data for the MechaCar.
 
